@@ -1,3 +1,7 @@
 venv/*
 inputs/*
+!inputs/.keep
 outputs/*
+!outputs/.keep
+logs/*
+!logs/.keep
